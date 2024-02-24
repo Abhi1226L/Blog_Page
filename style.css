@@ -70,17 +70,16 @@ a{
 }
 
 .footer_right{
-    border: 1px solid black;
+    border:1px solid black;
     border-radius:4px;
     margin-right:1rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display:flex;
+    align-items:center;
 }
 
 .footer_right span{
-    margin-left:2px;
-    margin-right:2px;
+    margin-left:6px;
+    margin-right:6px;
 }
 
 .footer_left_para{
